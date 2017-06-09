@@ -4,8 +4,7 @@
 		id ="com.phonegap.api-request"
 		version ="1.0.0">
 		<name>My First App</name>
-		<preferce name="Fullscreen" value="true"/>
-		<description>This Application is my first hybrid Application
-		</description>
-		<icon src ="images/logo.png" />
+		<preferce name="Fullscreen" value="true" />
+		<description>This Application is my first hybrid Application</description>
+		<icon src ="logo.png">
 </widget>
